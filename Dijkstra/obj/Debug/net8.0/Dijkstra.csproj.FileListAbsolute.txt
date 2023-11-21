@@ -1,0 +1,15 @@
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\obj\Debug\net8.0\Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\obj\Debug\net8.0\Dijkstra.AssemblyInfoInputs.cache
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\obj\Debug\net8.0\Dijkstra.AssemblyInfo.cs
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\obj\Debug\net8.0\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\obj\Debug\net8.0\Dijkstra.sourcelink.json
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\bin\Debug\net8.0\Dijkstra.exe
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\bin\Debug\net8.0\Dijkstra.deps.json
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\bin\Debug\net8.0\Dijkstra.runtimeconfig.json
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\bin\Debug\net8.0\Dijkstra.dll
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\bin\Debug\net8.0\Dijkstra.pdb
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\obj\Debug\net8.0\Dijkstra.dll
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\obj\Debug\net8.0\refint\Dijkstra.dll
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\obj\Debug\net8.0\Dijkstra.pdb
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\obj\Debug\net8.0\Dijkstra.genruntimeconfig.cache
+C:\Users\savio\Documents\Algoritmos_Grafos\Dijkstra\obj\Debug\net8.0\ref\Dijkstra.dll
