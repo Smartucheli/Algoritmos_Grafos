@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\savio\\.nuget\\packages\\": {}
+    "/home/savio/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\savio\\Documents\\Algoritmos_Grafos\\Dijkstra\\Dijkstra.csproj",
+      "projectUniqueName": "/home/savio/Documentos/teste/c#/Algoritmos_Grafos/Dijkstra/Dijkstra.csproj",
       "projectName": "Dijkstra",
-      "projectPath": "C:\\Users\\savio\\Documents\\Algoritmos_Grafos\\Dijkstra\\Dijkstra.csproj",
-      "packagesPath": "C:\\Users\\savio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\savio\\Documents\\Algoritmos_Grafos\\Dijkstra\\obj\\",
+      "projectPath": "/home/savio/Documentos/teste/c#/Algoritmos_Grafos/Dijkstra/Dijkstra.csproj",
+      "packagesPath": "/home/savio/.nuget/packages/",
+      "outputPath": "/home/savio/Documentos/teste/c#/Algoritmos_Grafos/Dijkstra/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\savio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/savio/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
