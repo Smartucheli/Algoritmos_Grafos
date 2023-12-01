@@ -1,0 +1,15 @@
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/bin/Debug/net8.0/bellman-ford
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/bin/Debug/net8.0/bellman-ford.deps.json
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/bin/Debug/net8.0/bellman-ford.runtimeconfig.json
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/bin/Debug/net8.0/bellman-ford.dll
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/bin/Debug/net8.0/bellman-ford.pdb
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/obj/Debug/net8.0/bellman-ford.GeneratedMSBuildEditorConfig.editorconfig
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/obj/Debug/net8.0/bellman-ford.AssemblyInfoInputs.cache
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/obj/Debug/net8.0/bellman-ford.AssemblyInfo.cs
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/obj/Debug/net8.0/bellman-ford.csproj.CoreCompileInputs.cache
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/obj/Debug/net8.0/bellman-ford.sourcelink.json
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/obj/Debug/net8.0/bellman-ford.dll
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/obj/Debug/net8.0/refint/bellman-ford.dll
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/obj/Debug/net8.0/bellman-ford.pdb
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/obj/Debug/net8.0/bellman-ford.genruntimeconfig.cache
+/home/savio/Documentos/teste/c#/Algoritmos_Grafos/bellman-ford/obj/Debug/net8.0/ref/bellman-ford.dll
