@@ -26,7 +26,6 @@
             {
                 if (!Euleriano())
                 {
-                    // Se o grafo não for Euleriano, imprime uma mensagem
                     Console.WriteLine("O grafo não possui um ciclo euleriano nem um caminho euleriano.");
                     return;
                 }
@@ -45,21 +44,17 @@
                 {
                     int atual = pilha.Peek();
 
-                    // Se há arestas adjacentes, escolhe uma
                     if (adjacencias[atual].Count > 0)
                     {
                         int vizinho = adjacencias[atual][0];
 
-                        // Remove a aresta (atual, vizinho)
                         adjacencias[atual].Remove(vizinho);
                         adjacencias[vizinho].Remove(atual);
 
-                        // Adiciona o vizinho à pilha
                         pilha.Push(vizinho);
                     }
                     else
                     {
-                        // Se não há arestas, imprime o vértice e o remove da pilha
                         Console.Write(pilha.Pop() + " -> ");
                     }
                 }
@@ -67,7 +62,6 @@
 
             private bool Euleriano()
             {
-                // Verifica se todos os vértices têm grau par
                 for (int i = 0; i < vertices; i++)
                 {
                     if (adjacencias[i].Count % 2 != 0)
@@ -103,7 +97,7 @@
             grafo.AdicionarAresta(9, 1);
             grafo.AdicionarAresta(9, 2);
 
-            int inicio = 0; // Pode ser qualquer vértice do grafo
+            int inicio = 0;
             grafo.ImprimirCicloOuCaminhoEuleriano(inicio);
 
         }
